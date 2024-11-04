@@ -1,0 +1,74 @@
+body {
+   background-color: #e6e4e4;
+   ;
+   color: #000000;
+}
+
+
+header {
+    background-color:   #000000;
+    padding: 0.00 0.5rem;
+}
+ 
+strong {
+    color: #2600ff;
+    border: 0.06rem solid #2600ff;
+    padding: 0.75rem;
+}
+
+h1{
+
+    color: rgb(255, 0, 0);
+   font-size: 2.5rem;
+    font-family: "Times New Roman", Times, serif;
+}
+
+texto{
+
+    font-size: 1.3rem ;
+ color: black ;
+}
+
+strong2{
+    font-weight: bold; /* Negrito */
+    padding: 0.15rem 0.30rem; /*tamanho da borda*/
+    background-color: #e6e4e4;
+    border: 0.15rem solid #000; /* Cor e espessura da borda */
+    border-radius: 3rem; /* Borda arredondada para parecer uma nuvem */
+    box-shadow: 0 0 0.90rem rgb(255, 0, 0); /* Efeito de sombra */
+}
+
+r{
+    color: aqua;
+  
+}
+
+r2{
+    color: orange;
+
+}
+
+r3{
+ color: rgb(40, 122, 247);
+}
+
+.apresentacao__imagem{
+    width: 25%
+
+     
+}
+
+.apresentacao__conteudo__titulo{
+
+width: 80%
+}
+
+.apresentacao__conteudo__texto{
+
+    width: 60%
+    }
+
+    .apresentacao__conteudo__navegacao{
+
+        width: 60%
+        }
